@@ -27,4 +27,67 @@ message = "I would like to smoke"
 print(f"{message} {cars[-2]}.")
 
 
+"""3.4. Список гостей: если бы вы могли пригласить кого угодно (из живых или умерших)
+на обед, то кого бы вы пригласили? Создайте список, включающий минимум трех людей,
+которых вам хотелось бы пригласить на обед. Затем используйте этот список для вывода
+пригласительного сообщения каждому участнику.
+"""
+gmail = ["jamescameron@gmail.com"]
+names_person = ["James Cameron", "Keeho", "Yibo", "Michael Jackson"]
+print(f"Дорогой {names_person[0]}, пригашаю тебя на обед")
+print(f"Дорогой {names_person[-3]}, пригашаю тебя на обед")
+print(f"Дорогой {names_person[-2]}, пригашаю тебя на обед")
+print(f"Дорогой {names_person[-1]}, пригашаю тебя на обед")
+
+# all_names = names_person[0] + " " + "this is his gmail" + " " + gmail[0]
+# print(all_names)
+# for actor in names_person:
+#     print(f"Привет всем кто сегодня сюда пришел на ваш концерт {actor}")
+#
+# print("Thanks for coming")
+#
+# name, *other_names = ["James Cameron", "Keeho", "Yibo", "Michael Jackson"]
+# email, = ["jamescameron@gmail.com"]
+#
+# all_names = f"{name} this is his gmail {email}"
+# print(all_names)
+
+"""3.5. Изменение списка гостей: вы только что узнали, что один из гостей прийти не сможет,
+поэтому вам придется разослать новые приглашения. Отсутствующего гостя нужно заменить кем-то другим.
+• Начните с программы из упражнения 3.4. Добавьте в конец программы команду
+print для вывода имени гостя, который прийти не сможет.
+• Измените список и замените имя гостя, который прийти не сможет, именем нового
+приглашенного.
+• Выведите новый набор сообщений с приглашениями — по одному для каждого
+участника, входящего в список."""
+
+cant_makes_it = names_person[1]
+print(f"К сожалению, {cant_makes_it} не может придти на обед.\n")
+
+new_quests = "Elon Musk"
+names_person[1] = new_quests
+
+for names in names_person:
+    print(f"Дорогой(ая) {names}, приглашаю тебя на обед!")
+print(names_person)
+
+
+"""3.6. Больше гостей: вы решили купить обеденный стол большего размера. Дополнительные места позволяют пригласить на обед еще трех гостей.
+• Начните с программы из упражнения 3.4 или 3.5. Добавьте в конец программы
+команду print, которая выводит сообщение о расширении списка гостей.
+• Добавьте вызов insert() для добавления одного гостя в начало списка.
+• Добавьте вызов insert() для добавления одного гостя в середину списка.
+• Добавьте вызов append() для добавления одного гостя в конец списка.
+• Выведите новый набор сообщений с приглашениями — по одному для каждого
+участника, входящего в список"""
+
+more_person = ["Elon Musk", "Justin Timberlake", "Taylor Swift", "Buzz Dam Tatiana", "Bruno Mars\n"]
+# print(len(more_person))
+print("Список гостей расширен\n")
+more_person.insert(0, "Piter Parker")
+more_person.insert(2, "Gugu Gaga")
+more_person.append("Ledu Gaga")
+
+for message in more_person:
+    print(f"Dear {message}, I invite you to lunch!")
 
