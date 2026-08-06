@@ -6,9 +6,9 @@ print(message)
 #One of Python's strengths is its diverse community.
 """Однако при использовании одиночных кавычек Python не сможет определить, где
 должна заканчиваться строка: """
-message = 'One of Python's is its diverse community.'
+# message = 'One of Python's is its diverse community.'
 
-#   File "C:\Users\user\PythonProject\Lear_Python\first_chapter_variables_and_simple_data_types\apostrophe.py", line 9
+#   File "C:\Users\user\PythonProject\Lear_Python\first_chapter_variables_and_simple_data_types\4_apostrophe.py", line 9
 #     message = 'One of Python's is its diverse community.'
 #                                                         ^
 # SyntaxError: unterminated string literal (detected at line 9)

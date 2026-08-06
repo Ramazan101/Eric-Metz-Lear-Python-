@@ -3,7 +3,7 @@ print(name.title())
 print(name.upper())
 print(name.lower())
 
-# C:\Users\user\PythonProject\Lear_Python\.venv\Scripts\python.exe C:\Users\user\PythonProject\Lear_Python\first_chapter_variables_and_simple_data_types\name.py
+# C:\Users\user\PythonProject\Lear_Python\.venv\Scripts\python.exe C:\Users\user\PythonProject\Lear_Python\first_chapter_variables_and_simple_data_types\2_name.py
 # Ada Lovelace
 # ADA LOVELACE
 # ada lovelace
@@ -15,7 +15,7 @@ last_name = "lovelace"
 full_name = f"{first_name} {last_name}"
 print(full_name)
 
-# C:\Users\user\PythonProject\Lear_Python\.venv\Scripts\python.exe C:\Users\user\PythonProject\Lear_Python\first_chapter_variables_and_simple_data_types\name.py
+# C:\Users\user\PythonProject\Lear_Python\.venv\Scripts\python.exe C:\Users\user\PythonProject\Lear_Python\first_chapter_variables_and_simple_data_types\2_name.py
 # ada lovelace
 #
 # Process finished with exit code 0
