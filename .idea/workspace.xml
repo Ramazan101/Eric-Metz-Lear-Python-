@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0d28810-d7cc-4396-8a3d-cfe7a8be4bd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Eric-Metz-Lear-Python-.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +15,69 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
-  "fromUser": false
-}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000000002" />
+      <entry key="S10" value="1.0000000541041518" />
+      <entry key="S30" value="1.0392258894471929" />
+      <entry key="S60" value="2.194577426750193" />
+      <entry key="M2" value="8.937205649425678" />
+      <entry key="M5" value="42.26106396345637" />
+      <entry key="M10" value="85.18886217518875" />
+      <entry key="M15" value="109.6435269867081" />
+      <entry key="M30" value="142.27880692078392" />
+      <entry key="H1" value="162.53478638708506" />
+      <entry key="H2" value="173.83502467626275" />
+      <entry key="H4" value="179.8052483821435" />
+      <entry key="D1" value="184.95158175647128" />
+      <entry key="W1" value="185.8498302331974" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.7872139843086253E-4" />
+      <entry key="MS500" value="0.178006274449634" />
+      <entry key="S2" value="0.6495443772868863" />
+      <entry key="S5" value="0.8414794822853807" />
+      <entry key="S10" value="0.9173219609427712" />
+      <entry key="S30" value="1.01072714643259" />
+      <entry key="S60" value="2.1783298354299117" />
+      <entry key="M2" value="8.924201154506129" />
+      <entry key="M5" value="42.24810813463398" />
+      <entry key="M10" value="85.17784383525068" />
+      <entry key="M15" value="109.63450308223906" />
+      <entry key="M30" value="142.27318888932862" />
+      <entry key="H1" value="162.53163693034665" />
+      <entry key="H2" value="173.8333553556397" />
+      <entry key="H4" value="179.80438878120356" />
+      <entry key="D1" value="184.9514349105901" />
+      <entry key="W1" value="185.8498091660258" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3Hil8Bf4BMYQ3wqwBoeGA5P75lW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,13 +89,16 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "inlay.hints",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -58,6 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1786358608966</updated>
       <workItem from="1786358610025" duration="2715000" />
+      <workItem from="1786363046126" duration="1154000" />
     </task>
     <servers />
   </component>
