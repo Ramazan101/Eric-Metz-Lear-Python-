@@ -5,35 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0d28810-d7cc-4396-8a3d-cfe7a8be4bd6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/5_if/1_cars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_if/2_magicians.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_if/3_amusement_park.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_работа со списками/2_кортежи.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_работа со списками/2_кортежи.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second_chapter_lists/9_foods.py" beforeDir="false" afterPath="$PROJECT_DIR$/second_chapter_lists/9_foods.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000000000000002" />
-      <entry key="S10" value="1.0000000541041518" />
-      <entry key="S30" value="1.0392258894471929" />
-      <entry key="S60" value="2.194577426750193" />
-      <entry key="M2" value="8.937205649425678" />
-      <entry key="M5" value="42.26106396345637" />
-      <entry key="M10" value="85.18886217518875" />
-      <entry key="M15" value="109.6435269867081" />
-      <entry key="M30" value="142.27880692078392" />
-      <entry key="H1" value="162.53478638708506" />
-      <entry key="H2" value="173.83502467626275" />
-      <entry key="H4" value="179.8052483821435" />
-      <entry key="D1" value="184.95158175647128" />
-      <entry key="W1" value="185.8498302331974" />
+      <entry key="MS100" value="1.727712398630636" />
+      <entry key="MS500" value="3.563379342768218" />
+      <entry key="S2" value="6.071726725324125" />
+      <entry key="S5" value="10.163974020800914" />
+      <entry key="S10" value="16.269698794957193" />
+      <entry key="S30" value="39.30120589296884" />
+      <entry key="S60" value="61.55975434985535" />
+      <entry key="M2" value="84.58585956856137" />
+      <entry key="M5" value="120.99186645362926" />
+      <entry key="M10" value="165.46557081590421" />
+      <entry key="M15" value="198.74348589265557" />
+      <entry key="M30" value="254.56990893552123" />
+      <entry key="H1" value="296.3614201901238" />
+      <entry key="H2" value="322.169437004203" />
+      <entry key="H4" value="336.54173408039986" />
+      <entry key="D1" value="349.3445293788052" />
+      <entry key="W1" value="351.61866018653933" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -55,23 +80,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.7872139843086253E-4" />
-      <entry key="MS500" value="0.178006274449634" />
-      <entry key="S2" value="0.6495443772868863" />
-      <entry key="S5" value="0.8414794822853807" />
-      <entry key="S10" value="0.9173219609427712" />
-      <entry key="S30" value="1.01072714643259" />
-      <entry key="S60" value="2.1783298354299117" />
-      <entry key="M2" value="8.924201154506129" />
-      <entry key="M5" value="42.24810813463398" />
-      <entry key="M10" value="85.17784383525068" />
-      <entry key="M15" value="109.63450308223906" />
-      <entry key="M30" value="142.27318888932862" />
-      <entry key="H1" value="162.53163693034665" />
-      <entry key="H2" value="173.8333553556397" />
-      <entry key="H4" value="179.80438878120356" />
-      <entry key="D1" value="184.9514349105901" />
-      <entry key="W1" value="185.8498091660258" />
+      <entry key="MS100" value="1.6571682340717617" />
+      <entry key="MS500" value="3.5336997805630377" />
+      <entry key="S2" value="6.057309030547589" />
+      <entry key="S5" value="10.14542844621745" />
+      <entry key="S10" value="16.24668710309198" />
+      <entry key="S30" value="39.27164249343211" />
+      <entry key="S60" value="61.53267741235154" />
+      <entry key="M2" value="84.5605932649733" />
+      <entry key="M5" value="120.96666450416276" />
+      <entry key="M10" value="165.44414244398016" />
+      <entry key="M15" value="198.72547615392193" />
+      <entry key="M30" value="254.55809760720334" />
+      <entry key="H1" value="296.35453819198705" />
+      <entry key="H2" value="322.1657048607664" />
+      <entry key="H4" value="336.53978829378946" />
+      <entry key="D1" value="349.3441933650553" />
+      <entry key="W1" value="351.61861188883995" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -85,6 +110,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.2_magicians.executor": "Run",
+    "Python.2_кортежи.executor": "Run",
+    "Python.3_amusement_park.executor": "Run",
+    "Python.4_toppings.executor": "Run",
+    "Python.5.1.executor": "Run",
+    "Python.5.10.executor": "Run",
+    "Python.5.2.executor": "Run",
+    "Python.5.3.executor": "Run",
+    "Python.5.4.executor": "Run",
+    "Python.5.5.executor": "Run",
+    "Python.5.6.executor": "Run",
+    "Python.5.7.executor": "Run",
+    "Python.5.8.executor": "Run",
+    "Python.5.9.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -97,7 +137,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "inlay.hints",
+    "settings.editor.selected.configurable": "editor.preferences.completion.popup",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
