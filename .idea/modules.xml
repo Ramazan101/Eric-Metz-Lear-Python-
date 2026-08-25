@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AIDataCheck/.idea/AIDataCheck.iml" filepath="$PROJECT_DIR$/../AIDataCheck/.idea/AIDataCheck.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Eric-Metz-Lear-Python-.iml" filepath="$PROJECT_DIR$/.idea/Eric-Metz-Lear-Python-.iml" />
     </modules>
   </component>

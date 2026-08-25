@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0d28810-d7cc-4396-8a3d-cfe7a8be4bd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/5_if/1_cars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_if/2_magicians.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_if/3_amusement_park.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_if/exercise/5.9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Eric-Metz-Lear-Python-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Eric-Metz-Lear-Python-.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_работа со списками/2_кортежи.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_работа со списками/2_кортежи.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_chapter_lists/9_foods.py" beforeDir="false" afterPath="$PROJECT_DIR$/second_chapter_lists/9_foods.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,39 +96,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.2_magicians.executor": "Run",
-    "Python.2_кортежи.executor": "Run",
-    "Python.3_amusement_park.executor": "Run",
-    "Python.4_toppings.executor": "Run",
-    "Python.5.1.executor": "Run",
-    "Python.5.10.executor": "Run",
-    "Python.5.2.executor": "Run",
-    "Python.5.3.executor": "Run",
-    "Python.5.4.executor": "Run",
-    "Python.5.5.executor": "Run",
-    "Python.5.6.executor": "Run",
-    "Python.5.7.executor": "Run",
-    "Python.5.8.executor": "Run",
-    "Python.5.9.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion.popup",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.2_magicians.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_кортежи.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3_amusement_park.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4_toppings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion.popup&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
