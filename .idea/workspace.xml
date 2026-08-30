@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0d28810-d7cc-4396-8a3d-cfe7a8be4bd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/6_set/7_aliens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_set/8_pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_set/9_favorite_languages.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_if/4_toppings.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_if/4_toppings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_set/exercise/6.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_set/exercise/6.10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_set/exercise/6.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_set/exercise/6.11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_set/exercise/6.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_set/exercise/6.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_set/exercise/6.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_set/exercise/6.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_set/exercise/6.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_set/exercise/6.9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -122,9 +128,14 @@
     "Python.5.9.executor": "Run",
     "Python.5_keys.executor": "Run",
     "Python.6.1.executor": "Run",
+    "Python.6.10.executor": "Run",
+    "Python.6.11.executor": "Run",
     "Python.6.3.executor": "Run",
     "Python.6.5.executor": "Run",
     "Python.6.6.executor": "Run",
+    "Python.6.7.executor": "Run",
+    "Python.6.8.executor": "Run",
+    "Python.6.9.executor": "Run",
     "Python.6_values.executor": "Run",
     "Python.8_pizza.executor": "Run",
     "Python.9_favorite_languages.executor": "Run",
@@ -149,6 +160,11 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/6_set/exercise" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
