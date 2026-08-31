@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0d28810-d7cc-4396-8a3d-cfe7a8be4bd6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/7_while/7_confirmed_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_while/8_pets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_while/9_mountain_poll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_while/exercise/7.8.сендвичи.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_while/exercise/7.9.без_пастрами.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_set/exercise/6.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_set/exercise/6.10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_set/exercise/6.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_set/exercise/6.11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_set/exercise/6.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_set/exercise/6.7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_set/exercise/6.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_set/exercise/6.8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_set/exercise/6.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_set/exercise/6.9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_set/exercise/6.12.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_set/exercise/6.12.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,11 +109,16 @@
   "keyToString": {
     "Python.10_many_users.executor": "Run",
     "Python.1_alien.executor": "Run",
+    "Python.1_parrot.executor": "Run",
     "Python.2_favorite_languages.executor": "Run",
+    "Python.2_greeter.executor": "Run",
     "Python.2_magicians.executor": "Run",
     "Python.2_кортежи.executor": "Run",
     "Python.3_alien_no_points.executor": "Run",
     "Python.3_amusement_park.executor": "Run",
+    "Python.3_counts.executor": "Run",
+    "Python.3_rollercoaster.executor": "Run",
+    "Python.4_even_or_odd.executor": "Run",
     "Python.4_toppings.executor": "Run",
     "Python.4_user.executor": "Run",
     "Python.5.1.executor": "Run",
@@ -126,19 +132,34 @@
     "Python.5.7.executor": "Run",
     "Python.5.8.executor": "Run",
     "Python.5.9.executor": "Run",
+    "Python.5_counting.executor": "Run",
     "Python.5_keys.executor": "Run",
     "Python.6.1.executor": "Run",
     "Python.6.10.executor": "Run",
     "Python.6.11.executor": "Run",
+    "Python.6.12.executor": "Run",
     "Python.6.3.executor": "Run",
     "Python.6.5.executor": "Run",
     "Python.6.6.executor": "Run",
     "Python.6.7.executor": "Run",
     "Python.6.8.executor": "Run",
     "Python.6.9.executor": "Run",
+    "Python.6_cities.executor": "Run",
     "Python.6_values.executor": "Run",
+    "Python.7.1.executor": "Run",
+    "Python.7.2.executor": "Run",
+    "Python.7.3.executor": "Run",
+    "Python.7.4.executor": "Run",
+    "Python.7.5.executor": "Run",
+    "Python.7.6.executor": "Run",
+    "Python.7.7.executor": "Run",
+    "Python.7.8.сендвичи.executor": "Run",
+    "Python.7.9.без_пастрами.executor": "Run",
+    "Python.7_confirmed_users.executor": "Run",
+    "Python.8_pets.executor": "Run",
     "Python.8_pizza.executor": "Run",
     "Python.9_favorite_languages.executor": "Run",
+    "Python.9_mountain_poll.executor": "Run",
     "Python.aliens.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -162,6 +183,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/7_while/exercise" />
       <recent name="$PROJECT_DIR$/6_set/exercise" />
     </key>
   </component>
