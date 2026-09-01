@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0d28810-d7cc-4396-8a3d-cfe7a8be4bd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8_chapter_Function/exercise/8.6.colled_cities.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_chapter_Function/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_chapter_Function/get_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_chapter_Function/printing_models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_while/2_greeter.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_while/2_greeter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,8 +161,10 @@
     "Python.9_mountain_poll.executor": "Run",
     "Python.aliens.executor": "Run",
     "Python.formatted_name.executor": "Run",
+    "Python.get_users.executor": "Run",
     "Python.person.executor": "Run",
     "Python.pets.executor": "Run",
+    "Python.printing_models.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
