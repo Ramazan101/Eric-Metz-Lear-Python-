@@ -5,34 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0d28810-d7cc-4396-8a3d-cfe7a8be4bd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8_chapter_Function/exercise/begginer_in_functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_chapter_variables_and_simple_data_types/1_hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_variables_and_simple_data_types/1_hello_world.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_chapter_variables_and_simple_data_types/2_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_variables_and_simple_data_types/2_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_chapter_variables_and_simple_data_types/3_counts.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_variables_and_simple_data_types/3_counts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_chapter_variables_and_simple_data_types/4_apostrophe.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_variables_and_simple_data_types/4_apostrophe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_chapter_variables_and_simple_data_types/5_comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_variables_and_simple_data_types/5_comments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_chapter_variables_and_simple_data_types/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_variables_and_simple_data_types/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_chapter_variables_and_simple_data_types/exercise/cases.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_variables_and_simple_data_types/exercise/cases.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_chapter_variables_and_simple_data_types/exercise/comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_variables_and_simple_data_types/exercise/comments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_chapter_variables_and_simple_data_types/exercise/simple_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_variables_and_simple_data_types/exercise/simple_message.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_chapter_variables_and_simple_data_types/exercise/simple_messages.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_variables_and_simple_data_types/exercise/simple_messages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_chapter_variables_and_simple_data_types/whitespace.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_variables_and_simple_data_types/whitespace.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_chapter_lists/1_bicycles.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_chapter_lists/1_bicycles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_chapter_lists/2_cars.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_chapter_lists/2_cars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_chapter_lists/3_motorcycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_chapter_lists/3_motorcycle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_chapter_lists/4_list_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_chapter_lists/4_list_index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_chapter_lists/5_first_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_chapter_lists/5_first_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_chapter_lists/6_even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_chapter_lists/6_even_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_chapter_lists/7_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_chapter_lists/7_squares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_chapter_lists/8_slices.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_chapter_lists/8_slices.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_chapter_lists/9_foods.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_chapter_lists/9_foods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_chapter_lists/exercise/index_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_chapter_lists/exercise/index_error.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_chapter_lists/exercise/lists_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_chapter_lists/exercise/lists_exercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_chapter_lists/exercise/range_list_index...py" beforeDir="false" afterPath="$PROJECT_DIR$/2_chapter_lists/exercise/range_list_index...py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_chapter_lists/exercise/sorted_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_chapter_lists/exercise/sorted_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_chapter_lists/ИТОГ.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_chapter_lists/ИТОГ.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second_chapter_lists/простая_статистика_с_числовыми_списками.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_chapter_lists/простая_статистика_с_числовыми_списками.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,6 +164,7 @@
     "Python.begginer_in_functions.executor": "Run",
     "Python.formatted_name.executor": "Run",
     "Python.get_users.executor": "Run",
+    "Python.lambda_function.executor": "Run",
     "Python.person.executor": "Run",
     "Python.pets.executor": "Run",
     "Python.printing_models.executor": "Run",
@@ -204,7 +178,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/admin/PycharmProjects/Eric-Metz-Lear-Python-",
+    "last_opened_file_path": "/home/admin/Загрузки/Telegram Desktop/built_in_func.ipynb",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
