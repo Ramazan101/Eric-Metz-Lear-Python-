@@ -5,7 +5,7 @@ fruits = ["apple", "cherry", "pineapple"]
 print(f"Намеренная ошибка index error: {fruits[-4]}")
 
 # Traceback (most recent call last):
-#   File "C:\Users\user\PythonProject\Lear_Python\second_chapter_lists\exercise\index_error.py", line 5, in <module>
+#   File "C:\Users\user\PythonProject\Lear_Python\2_chapter_lists\exercise\index_error.py", line 5, in <module>
 #     print(f"Намеренная ошибка index error: {fruits[-4]}")
 #                                             ~~~~~~^^^^
 # IndexError: list index out of range

@@ -21,17 +21,17 @@
 # print(numbers)
 numbers = [9, 10, 3, 7, 2, 5, 4, 8, 6, 1]
 # print(len(numbers))
-def sort_num(arr):
-    n = arr.copy()
-    length = len(n)
-    for inx in range(length):
-        for j in range(0, length - inx - 1):
-            if n[j] > n[j + 1]:
-                n[j], n[j + 1] = n[j + 1], n[j]
-    return n
-
-sorted_numbers = sort_num(numbers)
-print(sorted_numbers)
+# def sort_num(arr):
+#     n = arr.copy()
+#     length = len(n)
+#     for inx in range(length):
+#         for j in range(0, length - inx - 1):
+#             if n[j] > n[j + 1]:
+#                 n[j], n[j + 1] = n[j + 1], n[j]
+#     return n
+#
+# sorted_numbers = sort_num(numbers)
+# print(sorted_numbers)
 
 #         if v <= nn:
 #             n.append(v)

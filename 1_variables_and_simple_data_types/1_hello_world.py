@@ -12,7 +12,7 @@ print(message)
 message = "Hello Python Crash Course reader!"
 # print(mesage) # <-- NameError:
 # Traceback (most recent call last):
-#   File "C:\Users\user\PythonProject\Lear_Python\first_chapter_variables_and_simple_data_types\1_hello_world.py", line 12, in <module>
+#   File "C:\Users\user\PythonProject\Lear_Python\1_variables_and_simple_data_types\1_hello_world.py", line 12, in <module>
 #     print(mesage)
 #           ^^^^^^
 # NameError: name 'mesage' is not defined. Did you mean: 'message'?
