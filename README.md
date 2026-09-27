@@ -128,15 +128,3 @@ python 02_mfti_khiryanov_lectures/01_loops.py
     IDE: PyCharm Professional
 
     Стандарты оформления: Соответствие PEP 8 (именование переменных, структура импортов, отступы).
-Сохраните файл: **`Ctrl + O`** $\rightarrow$ **`Enter`**, затем выйдите: **`Ctrl + X`**.
-
----
-
-### 3. Отправка изменений на GitHub
-
-Зафиксируйте новую структуру и обновленный `README.md`:
-
-```bash
-git add .
-git status
-```
