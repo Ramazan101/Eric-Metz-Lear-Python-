@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b0d28810-d7cc-4396-8a3d-cfe7a8be4bd6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_chapter_Function/exercise/begginer_in_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/8_chapter_Function/exercise/begginer_in_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_chapter_Function/person.py" beforeDir="false" afterPath="$PROJECT_DIR$/8_chapter_Function/person.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zen_python/zen.py" beforeDir="false" afterPath="$PROJECT_DIR$/zen_python/zen.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
