@@ -42,3 +42,12 @@ odd_numbers = [n for n in another_count if n % 2 != 0]
 
 print(f"Чётные: {even_numbers}")
 print(f"Нечётные: {odd_numbers}")
+
+
+def isPalindrome(s: str) -> bool:
+    cleaned = [char.lower() for char in s if char.isalnum()]
+
+    return cleaned == cleaned[::-1]
+
+print(isPalindrome("Was it a car or a cat I saw?"))  # True
+print(isPalindrome("tab a cat"))
