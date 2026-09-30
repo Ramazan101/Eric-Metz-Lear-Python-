@@ -1,22 +1,23 @@
-# bruteforce
-another_count = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-def is_even_or_odd(numbers):
-    is_even = []
-    is_odd = []
-    for number in numbers:
-        if number % 2 == 0:
-            is_even.append(number)
-        else:
-            is_odd.append(number)
-    return is_even, is_odd
+import this
 
-even_numbers, odd_numbers = is_even_or_odd(another_count)
-print(f"Чётные: {even_numbers}")
-print(f"Нечётные: {odd_numbers}")
+The Zen of Python, by Tim Peters
 
-# list comprehension
-even_numbers = [n for n in another_count if n % 2 == 0]
-odd_numbers = [n for n in another_count if n % 2 != 0]
-
-print(f"Чётные: {even_numbers}")
-print(f"Нечётные: {odd_numbers}")
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
